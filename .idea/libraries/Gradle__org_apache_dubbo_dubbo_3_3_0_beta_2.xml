@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.dubbo:dubbo:3.3.0-beta.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.dubbo" artifactId="dubbo" version="3.3.0-beta.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.dubbo/dubbo/3.3.0-beta.2/6d97d12c4bcf54b471d2d8a79da079ec8058d42d/dubbo-3.3.0-beta.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

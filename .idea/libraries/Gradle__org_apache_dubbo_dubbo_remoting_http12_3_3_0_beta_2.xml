@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.dubbo:dubbo-remoting-http12:3.3.0-beta.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.dubbo" artifactId="dubbo-remoting-http12" version="3.3.0-beta.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.dubbo/dubbo-remoting-http12/3.3.0-beta.2/dc6d23662febd58428940a970a408f889198d747/dubbo-remoting-http12-3.3.0-beta.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
