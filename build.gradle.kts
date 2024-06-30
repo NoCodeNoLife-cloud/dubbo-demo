@@ -2,7 +2,9 @@ plugins {
     id("java")
 }
 
+// Multi-project dependency management
 allprojects {
+    // Note: Don’t forget apply plugin
     apply(plugin = "java")
 
     group = "org.code"
