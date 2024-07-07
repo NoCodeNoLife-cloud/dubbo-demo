@@ -90,7 +90,7 @@
       <recent name="code" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringBootApplicationBootStrap (1)">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="dubbo-demo" />
       <method v="2">
@@ -100,6 +100,13 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="dubbo-demo" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootApplicationBootStrap (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="dubbo-demo.dubbo-spring-boot-demo-consumer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="code.SpringBootApplicationBootStrap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,6 +160,7 @@
       <workItem from="1719971632176" duration="145000" />
       <workItem from="1719974490596" duration="1160000" />
       <workItem from="1719983173488" duration="48000" />
+      <workItem from="1720248530990" duration="570000" />
     </task>
     <servers />
   </component>

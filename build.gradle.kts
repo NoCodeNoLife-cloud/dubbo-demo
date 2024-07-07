@@ -38,6 +38,8 @@ allprojects {
         implementation("org.apache.dubbo:dubbo-spring-boot-starter:3.3.0-beta.2")
         // https://mvnrepository.com/artifact/org.apache.dubbo/dubbo-rpc-triple
         implementation("org.apache.dubbo:dubbo-rpc-triple:3.3.0-beta.2")
+        // https://mvnrepository.com/artifact/org.apache.dubbo/dubbo-dependencies-zookeeper-curator5
+        implementation("org.apache.dubbo:dubbo-dependencies-zookeeper-curator5:3.2.14")
     }
 
     tasks.test {
